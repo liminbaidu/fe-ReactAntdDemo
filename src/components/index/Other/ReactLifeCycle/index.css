@@ -1,0 +1,21 @@
+.GeneralContent {
+    padding: 24px;
+    text-align: left;
+    font-size: 15px;
+    font-family: "lucida grande", "lucida sans unicode", lucida, helvetica, "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
+}
+.ScreeningItems{
+margin: 15px;
+}
+.jobContentTextArea{
+    margin-left: 15px;
+    width:320px;
+    height: 220px;
+}
+.p{
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 16px;
+    color: rgb(0, 0, 0);
+    font-family:Calibri,Helvetica,sans-serif,serif,EmojiFont;
+}

@@ -1,0 +1,17 @@
+.logo {
+    width: 80px;
+    height: 31px;
+    /*background: rgba(255, 255, 255, 0.2);*/
+    margin: 16px 28px 16px 0;
+    float: left;
+
+}
+
+.site-layout-background {
+    background: #fff;
+}
+.logo {
+    /*background: rgba(255, 255, 255, 0.3);*/
+    background-image: url("./../config/9a025cdd05b12a316f551bbfccfe80ab@凡科快图 (2).png");
+    background-size: 100% 100%;
+}
